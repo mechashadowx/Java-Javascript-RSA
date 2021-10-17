@@ -1,0 +1,19 @@
+{
+  "name": "bundle-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "crypto-js": "^4.1.1",
+    "jquery": "^3.6.0",
+    "node-forge": "^0.10.0",
+    "node-rsa": "^1.1.1",
+    "rsa-pem-from-mod-exp": "^0.8.4"
+  }
+}
